@@ -1,0 +1,1 @@
+cmd_/home/hza/git/code/kernel_file_operate/file_operate.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/hza/git/code/kernel_file_operate/file_operate.ko /home/hza/git/code/kernel_file_operate/file_operate.o /home/hza/git/code/kernel_file_operate/file_operate.mod.o
